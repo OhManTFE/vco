@@ -1,10 +1,10 @@
-victory_type	tree_y	tree_x	icon	length_type
+victory_type	tree_y	tree_x	length_type	icon
 #victory_types_tables;2;db/victory_types_tables/vco				
 wh3_main_victory_type_chaos_domination	0	0	long	long
 wh3_main_victory_type_chaos_forge_of_souls	3	0	long	long
 vco_victory_type_short	0	0	short	short
 vco_victory_type_long	1	0	long	long
-vco_victory_type_ultimate	2	0	long	ultimate
+vco_victory_type_ultimate	2	0	ultimate	long
 vco_victory_type_military	3	0	long	long
 vco_victory_type_economic	4	0	long	long
 vco_victory_type_cultural	5	0	long	long
@@ -87,9 +87,6 @@ vco_victory_type_alternative_2_toxic_masculinity	1	0	long	long
 vco_victory_type_alternative_3_the_greatest_orgy	2	0	long	long
 vco_victory_type_alternative_2_not_so_grand	1	0	long	long
 vco_victory_type_alternative_3_iron_man	2	0	long	long
-vco_victory_type_emp_the_1_champions_of_the_empire	0	0	long	long
-vco_victory_type_emp_the_2_the_huntsmarshals_expedition	1	0	long	long
-vco_victory_type_emp_the_3_it_is_round	2	0	long	long
-vco_victory_type_brt_bdx_1_alberic_grail_quest	0	0	long	long
-vco_victory_type_brt_bdx_2_no_ocean_for_dead_men	1	0	long	long
-vco_victory_type_brt_bdx_3_home_sweet_home	2	0	long	long
+vco_victory_type_alternative_1_solar_city	0	0	long	long
+vco_victory_type_alternative_2_begone_thot	1	0	long	long
+vco_victory_type_alternative_3_purging_warmbloods	2	0	long	long
